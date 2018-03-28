@@ -18,4 +18,5 @@
 
     <mvc:default-servlet-handler/>
     <mvc:annotation-driven/>
+    <mvc:resources location="/js/" mapping="/js/**"/>
 </beans>
